@@ -1,21 +1,15 @@
 # Site settings
-title: Photo Journal
+title: Bösger Photography
 email: "phillip.boesger@gmail.com"
-description: "Photo Journal"
+description: "My life as photographer"
 url: "https://rakees.github.io"
 baseurl: "/boesger-photography"
-facebook_username: ""
-twitter_username: ""
 instagram_username: "phillip.bo"
-github_username:  "Rakees"
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
 share: true
 
 # Owner/author information
 owner:
-  name:   Phillip Bösger
+  name: Phillip Bösger
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website
@@ -27,7 +21,7 @@ owner:
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
-  provider : disqus
+  provider : false
   disqus :
     short_name : ""
 
