@@ -1,10 +1,10 @@
 {
-  "name": "boesger-photography",
-  "description": "Photo Journal",
+  "name": "Bösger Photography",
+  "description": "My life as photographer",
   "main": "index.html",
   "moduleType": [],
   "authors": [
-    "Anna Prigkipaki"
+    "Phillip Bösger"
   ],
   "license": "Apache-2.0",
   "homepage": "",
