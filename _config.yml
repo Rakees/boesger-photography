@@ -27,8 +27,8 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://rakees.github.io/boesger-photography/gallery/"  
   - ABOUT: "https://rakees.github.io/boesger-photography/about/"
+  - GALLERY: "https://rakees.github.io/boesger-photography/gallery/"  
 
 # All translation keys
 translations:
