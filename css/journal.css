@@ -233,3 +233,18 @@
     padding-right: 15px;
     text-align: center;
 }
+
+.journey {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    /* Abstand zwischen Bild und Text */
+}
+
+.journey-image {
+    flex: 0 0 auto;
+}
+
+.journey-text {
+    flex: 1;
+}
