@@ -8141,3 +8141,36 @@ button.close {
     display: none!important
   }
 }
+
+@media (max-width: 768px) {
+  .dropdown-menu {
+    position: static;
+    float: none;
+    width: 100%;
+    margin-top: 0;
+    background-color: transparent;
+    border: 0;
+    box-shadow: none;
+  }
+
+  .dropdown-menu>li>a {
+    padding: 10px 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .navbar-nav {
+    text-align: center;
+  }
+
+  .navbar-nav .dropdown-menu {
+    position: static;
+    float: none;
+    width: 100%;
+    text-align: left;
+  }
+
+  .navbar-nav .dropdown-menu > li > a {
+    padding: 10px 15px;
+  }
+}
