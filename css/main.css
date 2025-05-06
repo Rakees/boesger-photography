@@ -421,7 +421,8 @@ body {
 
   .journey-image {
     padding-left: 0;
-    margin-bottom: 20px;
+    margin: auto;
+    max-width: 50%;
   }
 }
 
@@ -432,6 +433,5 @@ body {
 
   .journey-image {
     padding-left: 20px;
-    margin-bottom: 0;
   }
 }
