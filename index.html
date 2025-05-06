@@ -4,14 +4,14 @@ main-title: "Phillip Bösger Photography"
 subtitle: "Street and Event Photographer"
 description: "capturing life’s moments around the world"
 images:
-  - image_path: /img/slider/home1.jpg
-    gallery-folder: /img/slider/
-  - image_path: /img/slider/home2.jpg
-    gallery-folder: /img/slider/
-  - image_path: /img/slider/home3.jpg
-    gallery-folder: /img/slider/
-  - image_path: /img/slider/home4.jpg
-    gallery-folder: /img/slider/
+- image_path: /img/slider/home1.jpg
+gallery-folder: /img/slider/
+- image_path: /img/slider/home2.jpg
+gallery-folder: /img/slider/
+- image_path: /img/slider/home3.jpg
+gallery-folder: /img/slider/
+- image_path: /img/slider/home4.jpg
+gallery-folder: /img/slider/
 ---
 
 <html class="no-js" lang="en">
@@ -29,12 +29,12 @@ images:
 	<script src="{{ site.baseurl }}/js/modernizr.js"></script>
 
 	<style>
-	  @media only screen and (max-width: 768px) {
-	    .gallery-item img {
-	      max-width: 100%;
-	      height: auto;
-	    }
-	  }
+		@media only screen and (max-width: 768px) {
+			.gallery-item img {
+				max-width: 100%;
+				height: auto;
+			}
+		}
 	</style>
 
 </head>
@@ -59,12 +59,12 @@ images:
 
 				<canvas id="kenburns"></canvas>
 				{% for image in page.images %}
-					<figure class="gallery-item">
-						<header class='gallery-icon'>
-							<a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">
+				<figure class="gallery-item">
+					<header class='gallery-icon'>
+						<a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">
 							<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
-						</header>
-					</figure>
+					</header>
+				</figure>
 				{% endfor %}
 
 			</div>
@@ -77,13 +77,14 @@ images:
 		<ul class="soc-icons">
 			{% if site.instagram_username %}
 			<li>
-				<a href="https://instagram.com/{{ site.instagram_username }}" style="color:#dddddd;" target="_blank" title="Instagram">
+				<a href="https://instagram.com/{{ site.instagram_username }}" style="color:#dddddd;" target="_blank"
+					title="Instagram">
 					<i class="fa fa-instagram"></i>
 					</span>
 				</a>
 			</li>
 			{% endif %}
-			<li>				
+			<li>
 				<a href="mailto:{{ site.email }}" style="color:#dddddd;" target="_blank" title="Email">
 					<i class="fa fa-envelope-o"></i></span>
 				</a>
