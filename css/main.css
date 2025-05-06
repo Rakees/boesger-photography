@@ -418,8 +418,20 @@ body {
   .journey {
     flex-direction: column;
   }
+
   .journey-image {
     padding-left: 0;
     margin-bottom: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .journey {
+    flex-direction: row-reverse;
+  }
+
+  .journey-image {
+    padding-left: 20px;
+    margin-bottom: 0;
   }
 }
