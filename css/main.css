@@ -126,7 +126,6 @@ hr.small {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-bottom: 50px;
 }
 
 .intro-header .site-heading,
@@ -423,6 +422,7 @@ body {
     padding-left: 0;
     margin: auto;
     max-width: 50%;
+    padding-top: 10px;
   }
 }
 
