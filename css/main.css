@@ -413,3 +413,13 @@ body {
 .fa-stack-2x {
   color: black;
 }
+
+@media (max-width: 768px) {
+  .journey {
+    flex-direction: column;
+  }
+  .journey-image {
+    padding-left: 0;
+    margin-bottom: 20px;
+  }
+}
