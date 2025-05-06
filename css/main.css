@@ -478,15 +478,3 @@ body {
 .fa-stack-2x {
   color: black;
 }
-
-/* Added CSS to fix the navigation bar */
-.navbar-fixed-top {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 1030;
-  background-color: #000;
-  /* Optional: Adjust background color */
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  /* Optional: Add shadow for better visibility */
-}
