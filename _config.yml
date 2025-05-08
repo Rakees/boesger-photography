@@ -2,8 +2,8 @@
 title: Bösger Photography
 email: "photograhy@boesger.com"
 description: "My life as photographer"
-url: "https://rakees.github.io"
-baseurl: "/boesger-photography"
+url: "https://photography.boesger.com"
+baseurl: ""
 instagram_username: "phillip.bo"
 share: true
 
@@ -27,8 +27,8 @@ comments :
 
 # Internal nav
 nav:
-  - ABOUT: "https://rakees.github.io/boesger-photography/about/"
-  - GALLERY: "https://rakees.github.io/boesger-photography/gallery/"  
+  - ABOUT: "https://photography.boesger.com/about/"
+  - GALLERY: "https://photography.boesger.com/gallery/"  
 
 # All translation keys
 translations:
