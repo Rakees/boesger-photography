@@ -2,7 +2,7 @@
 layout: page
 title: Imprint
 permalink: /imprint/
-header-img: "img/about-bg.jpg"
+header-img: "img/imprint-bg.jpg"
 ---
 
 # Imprint
