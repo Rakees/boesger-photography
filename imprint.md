@@ -2,6 +2,7 @@
 layout: page
 title: Imprint
 permalink: /imprint/
+header-img: "img/about-bg.jpg"
 ---
 
 # Imprint
@@ -38,5 +39,3 @@ Links to external websites are provided for informational purposes only. The ope
 ## Copyright
 
 All content and works on these pages created by the site operator are subject to copyright. Duplication, processing, distribution, or any form of commercialization of such material beyond the scope of copyright law shall require the prior written consent of the respective author or creator.
-
----
