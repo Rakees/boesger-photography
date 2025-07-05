@@ -7,54 +7,406 @@ active: about
 header-img: "img/about-bg.jpg"
 ---
 
-<p style="margin-top: 0;">
-  My name is <b>Phillip Bösger</b>, born in 1997, and I am a German photographer passionate about capturing life’s
-  moments around the world.<br>
-  I work as a remote software developer, travel the world as a digital nomad and want to reach people with my hobbies.
-</p>
-
-<h1>My Photography Journey</h1>
-<div class="journey" style="display: flex; align-items: center;">
-  <div class="journey-image" style="flex: 0 0 30%; text-align: center;">
-    <img src="{{ site.url }}{{ site.baseurl }}/img/about-image.jpg" style="border-radius:50%; max-width: 100%;"
-      alt="Profil Picture" />
+<div class="about-container">
+  <div class="intro-section">
+    <div class="intro-content">
+      <h1 class="intro-title">Hello, I'm <span class="highlight">Phillip Bösger</span></h1>
+      <p class="intro-subtitle">
+        Born in 1997, I'm a German photographer passionate about capturing life's authentic moments around the world.
+      </p>
+      <p class="intro-description">
+        I work as a remote software developer, travel the world as a digital nomad, and want to reach people with my photography.
+      </p>
+    </div>
   </div>
-  <div class="journey-text" style="flex: 1;">
-    <p>
-      Since 2020, I have been actively pursuing photography as a hobby, focusing on street photography, events, and
-      weddings for friends.
-    </p>
-    <p>
-      Driven by my travels and the urge to discover something new, I have journeyed extensively in recent years to
-      capture the world’s moments. Equipped with my Sony Alpha 7 III, a variety of lenses, filters, and refined
-      technical skills, I am well-prepared for many shooting scenarios and eventualities.
-    </p>
+
+  <div class="journey-section">
+    <h2 class="section-title">My Photography Journey</h2>
+    <div class="journey-content">
+      <div class="journey-image">
+        <img src="{{ site.url }}{{ site.baseurl }}/img/about-image.jpg" alt="Phillip Bösger - Photographer" />
+        <div class="image-overlay">
+          <span class="overlay-text">📸 Since 2020</span>
+        </div>
+      </div>
+      <div class="journey-text">
+        <div class="journey-card">
+          <h3>📍 Street Photography</h3>
+          <p>Capturing authentic moments in urban environments and discovering stories in everyday life.</p>
+        </div>
+        <div class="journey-card">
+          <h3>🎉 Events & Weddings</h3>
+          <p>Documenting special moments and celebrations for friends, creating memories that last a lifetime.</p>
+        </div>
+        <div class="journey-card">
+          <h3>🌍 Travel Photography</h3>
+          <p>Exploring the world with my Sony Alpha 7 III, capturing diverse cultures and breathtaking landscapes.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="services-section">
+    <h2 class="section-title">What I Offer</h2>
+    <div class="services-grid">
+      <div class="service-card">
+        <div class="service-icon">💝</div>
+        <h3>Free Photography</h3>
+        <p>Event, wedding, and portrait photography – I only ask for coverage of my travel costs</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🚫</div>
+        <h3>No Hidden Costs</h3>
+        <p>No hourly wage, no hidden costs. Transparent and honest pricing structure.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">✈️</div>
+        <h3>Worldwide Availability</h3>
+        <p>Available for one-day assignments anywhere in the world.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">📸</div>
+        <h3>High-Quality Delivery</h3>
+        <p>Carefully selected, fully edited high-resolution images after each event.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🎨</div>
+        <h3>Personalized Style</h3>
+        <p>Flexible, personalized shooting style to capture your unique vision.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="why-section">
+    <h2 class="section-title">Why I Do It</h2>
+    <div class="why-content">
+      <div class="why-card main-card">
+        <h3>💝 Passion Drives Me</h3>
+        <p>Photography is my passion – I love capturing authentic moments and sharing stories through my images.</p>
+      </div>
+      <div class="why-card">
+        <h3>🔓 Accessible Photography</h3>
+        <p>As a full-time remote software developer, I'm financially independent from photography, allowing me to offer my services free of charge to inspire more people and make professional photography accessible.</p>
+      </div>
+      <div class="why-card">
+        <h3>⭐ Quality Focus</h3>
+        <p>To ensure the highest quality, I take on only one to two events per month, dedicating my full attention to each assignment.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="cta-section">
+    <div class="cta-content">
+      <h2>Ready to Create Unforgettable Memories?</h2>
+      <p>I look forward to capturing your special event and creating images you'll cherish forever.</p>
+      <a href="mailto:{{ site.email }}" class="cta-button">Let's Work Together</a>
+    </div>
   </div>
 </div>
 
-<h1>What I Offer</h1>
-<ul>
-  <li>Free event, wedding, and portrait photography – <u>I only ask for coverage of my travelcosts</u></li>
-  <li><b>No hourly wage, no hidden costs.</b></li>
-  <li>Worldwide availability for one-day assignments.</li>
-  <li>Delivery of carefully selected, fully edited high-resolution images after each event.</li>
-  <li>Flexible, personalized shooting style to capture your vision.</li>
-</ul>
+<style>
+.about-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
 
-<h1>Why I Do It</h1>
-<p>
-  Photography is my passion – I love capturing authentic moments and sharing stories through my images.
-</p>
-<p>
-  As a full-time remote software developer, I’m financially independent from photography, allowing me to offer my
-  services
-  free of charge to inspire more people and make professional photography accessible.
-</p>
-<p>
-  To ensure the highest quality, I take on only one to two events per month, dedicating my full attention to each
-  assignment.
-</p>
-<p style="font-weight: bold;">
-  I look forward to capturing your special event and creating images you'll cherish—let's make unforgettable memories
-  together!
-</p>
+.intro-section {
+  background: linear-gradient(135deg, rgba(118, 8, 36, 0.1) 0%, rgba(0, 0, 0, 0.8) 100%);
+  border-radius: 20px;
+  padding: 60px 40px;
+  margin-bottom: 60px;
+  text-align: center;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.intro-title {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  background: linear-gradient(45deg, #760824, #fff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.highlight {
+  color: #760824;
+  font-weight: 900;
+}
+
+.intro-subtitle {
+  font-size: 1.4rem;
+  margin-bottom: 20px;
+  color: #ddd;
+  font-weight: 300;
+}
+
+.intro-description {
+  font-size: 1.1rem;
+  color: #bbb;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+  text-align: center;
+  color: #fff;
+  position: relative;
+}
+
+.section-title::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px;
+  height: 3px;
+  background: linear-gradient(45deg, #760824, #fff);
+  border-radius: 2px;
+}
+
+.journey-section {
+  margin-bottom: 80px;
+}
+
+.journey-content {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 60px;
+  align-items: center;
+}
+
+.journey-image {
+  position: relative;
+  text-align: center;
+}
+
+.journey-image img {
+  border-radius: 50%;
+  max-width: 280px;
+  width: 100%;
+  border: 4px solid #760824;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+  transition: transform 0.3s ease;
+}
+
+.journey-image:hover img {
+  transform: scale(1.05);
+}
+
+.image-overlay {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(118, 8, 36, 0.9);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.journey-text {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.journey-card {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 25px;
+  border-radius: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease;
+}
+
+.journey-card:hover {
+  background: rgba(255, 255, 255, 0.1);
+  transform: translateY(-5px);
+}
+
+.journey-card h3 {
+  color: #760824;
+  margin-bottom: 15px;
+  font-size: 1.2rem;
+}
+
+.services-section {
+  margin-bottom: 80px;
+}
+
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 25px;
+}
+
+.service-card {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 30px;
+  border-radius: 15px;
+  text-align: center;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease;
+}
+
+.service-card:hover {
+  background: rgba(255, 255, 255, 0.1);
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.service-icon {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  display: block;
+}
+
+.service-card h3 {
+  color: #760824;
+  margin-bottom: 15px;
+  font-size: 1.3rem;
+}
+
+.service-card p {
+  color: #ccc;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.why-section {
+  margin-bottom: 80px;
+}
+
+.why-content {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 25px;
+}
+
+.why-card {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 30px;
+  border-radius: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease;
+}
+
+.why-card:hover {
+  background: rgba(255, 255, 255, 0.1);
+  transform: translateY(-5px);
+}
+
+.why-card h3 {
+  color: #760824;
+  margin-bottom: 15px;
+  font-size: 1.3rem;
+}
+
+.why-card p {
+  color: #ccc;
+  line-height: 1.6;
+}
+
+.main-card {
+  background: linear-gradient(135deg, rgba(118, 8, 36, 0.1) 0%, rgba(255, 255, 255, 0.05) 100%);
+}
+
+.cta-section {
+  background: linear-gradient(135deg, #760824 0%, #a00f36 100%);
+  border-radius: 20px;
+  padding: 60px 40px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.cta-content h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+.cta-content p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+  color: #f0f0f0;
+}
+
+.cta-button {
+  display: inline-block;
+  background: #fff;
+  color: #760824;
+  padding: 15px 40px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.1rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.cta-button:hover {
+  background: #f0f0f0;
+  transform: translateY(-3px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4);
+  color: #760824;
+}
+
+@media (max-width: 768px) {
+  .intro-section {
+    padding: 40px 20px;
+  }
+  
+  .intro-title {
+    font-size: 2.2rem;
+  }
+  
+  .journey-content {
+    grid-template-columns: 1fr;
+    gap: 40px;
+    text-align: center;
+  }
+  
+  .journey-image img {
+    max-width: 200px;
+  }
+  
+  .services-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .section-title {
+    font-size: 2rem;
+  }
+  
+  .cta-content h2 {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .about-container {
+    padding: 0 15px;
+  }
+  
+  .intro-title {
+    font-size: 1.8rem;
+  }
+  
+  .intro-subtitle {
+    font-size: 1.2rem;
+  }
+  
+  .service-card, .journey-card, .why-card {
+    padding: 20px;
+  }
+  
+  .cta-section {
+    padding: 40px 20px;
+  }
+}
+</style>
