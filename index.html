@@ -36,6 +36,28 @@ images:
 				max-width: 100%;
 				height: auto;
 			}
+			
+			/* Move Instagram and Mail icons further down on mobile */
+			body.fullscreen #footer {
+				bottom: -30px !important;
+				padding-bottom: 5em !important;
+			}
+			
+			ul.soc-icons {
+				padding: 0 0 2.5em .5em !important;
+			}
+		}
+		
+		@media only screen and (max-width: 480px) {
+			/* Move even further down on very small screens */
+			body.fullscreen #footer {
+				bottom: -40px !important;
+				padding-bottom: 6em !important;
+			}
+			
+			ul.soc-icons {
+				padding: 0 0 3em .5em !important;
+			}
 		}
 	</style>
 </head>
