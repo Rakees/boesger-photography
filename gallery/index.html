@@ -13,6 +13,12 @@ header-img: "img/gallery-bg.jpg"
 </head>
 
 <body class="gallery">
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    document.body.classList.add('gallery-page');
+  });
+  </script>
+
   <section id="content" role="main">
     <div class="wrapper">
       <p style="font-style: italic; text-align: center; margin-top: 0;">
@@ -43,6 +49,52 @@ header-img: "img/gallery-bg.jpg"
   <script src="{{ site.baseurl }}/js/scripts.js"></script>
   <!-- Modernizr -->
   <script src="{{ site.baseurl }}/js/modernizr.js"></script>
+
+  <style>
+  /* Gallery Page Background - Same as About Page */
+  
+  /* Photography-inspired background */
+  body.gallery-page {
+    background: radial-gradient(circle at 20% 80%, rgba(204, 102, 51, 0.05) 0%, transparent 20%),
+                radial-gradient(circle at 80% 20%, rgba(204, 102, 51, 0.03) 0%, transparent 25%),
+                radial-gradient(circle at 40% 40%, rgba(255, 255, 255, 0.02) 0%, transparent 30%),
+                linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 50%, #0d0d0d 100%) !important;
+    background-attachment: fixed !important;
+    position: relative !important;
+    min-height: 100vh !important;
+  }
+
+  /* Subtle film grain texture overlay */
+  body.gallery-page::before {
+    content: '' !important;
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    background-image: 
+      radial-gradient(circle at 25% 25%, rgba(255, 255, 255, 0.008) 1px, transparent 1px),
+      radial-gradient(circle at 75% 75%, rgba(255, 255, 255, 0.006) 1px, transparent 1px),
+      radial-gradient(circle at 50% 50%, rgba(204, 102, 51, 0.004) 1px, transparent 1px) !important;
+    background-size: 60px 60px, 80px 80px, 40px 40px !important;
+    background-position: 0 0, 20px 20px, 40px 40px !important;
+    pointer-events: none !important;
+    z-index: -1 !important;
+    opacity: 0.3 !important;
+  }
+
+  /* Ensure gallery content is above the background */
+  body.gallery-page #content {
+    position: relative !important;
+    z-index: 1 !important;
+  }
+
+  /* Ensure gallery wrapper has proper styling */
+  body.gallery-page .wrapper {
+    position: relative !important;
+    z-index: 1 !important;
+  }
+  </style>
 
 </body>
 
