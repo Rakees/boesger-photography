@@ -5,37 +5,53 @@ permalink: /imprint/
 header-img: "img/imprint-bg.png"
 ---
 
-# Imprint
+# Imprint (Impressum)
 
-This website is operated by:
+## Information according to § 5 TMG (Telemediengesetz)
 
 **Phillip Bösger**  
-Digital Nomad (without permanent residence)
+[Street and House Number] <!-- TODO: Replace with actual street address before deployment -->  
+[Postal Code] [City] <!-- TODO: Replace with actual postal code and city before deployment -->  
+Germany
 
 **Contact:**  
 Email: [photography@boesger.com](mailto:photography@boesger.com)
 
 ---
 
-## Legal Notice
+## Responsible for Content according to § 18 Abs. 2 MStV
 
-This website is operated by a digital nomad without a permanent residence. In accordance with Article 5 of the EU Directive 2000/31/EC (eCommerce Directive) and other applicable international regulations, the following information is provided:
+Phillip Bösger  
+(Address as above)
 
-- The operator of this website is a private individual who does not have a fixed address or registered office.
-- For all inquiries, please use the email address provided above.
-- The operator is not subject to VAT (Value Added Tax) due to the small business regulation or non-residency status, unless otherwise stated.
-- Dispute resolution: The European Commission provides a platform for online dispute resolution (ODR): [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/). The operator is not obliged or willing to participate in dispute resolution proceedings before a consumer arbitration board.
+---
+
+## Dispute Resolution
+
+The European Commission provides a platform for online dispute resolution (ODR): [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/).
+
+We are not obliged or willing to participate in dispute resolution proceedings before a consumer arbitration board.
 
 ---
 
 ## Disclaimer
 
-The content of this website has been created with the greatest possible care. However, the operator assumes no liability for the accuracy, completeness, or timeliness of the content. As a service provider, the operator is responsible for their own content on these pages in accordance with general laws. However, the operator is not obliged to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity.
+### Liability for Content
 
-Links to external websites are provided for informational purposes only. The operator has no influence on the content of these websites and therefore assumes no liability for such external content. The respective provider or operator of the linked pages is always responsible for their content.
+As a service provider, we are responsible for our own content on these pages in accordance with § 7 Abs. 1 TMG and general laws. According to §§ 8 to 10 TMG, however, we are not obligated to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity.
+
+Obligations to remove or block the use of information under general laws remain unaffected. However, liability in this regard is only possible from the moment of knowledge of a specific infringement. Upon becoming aware of such violations, we will remove the respective content immediately.
+
+### Liability for Links
+
+Our website contains links to external websites of third parties, over whose content we have no influence. Therefore, we cannot assume any liability for these external contents. The respective provider or operator of the linked pages is always responsible for the contents of those pages. The linked pages were checked for possible legal violations at the time of linking. Illegal content was not discernible at the time of linking.
+
+Permanent monitoring of the content of the linked pages is not reasonable without concrete evidence of a legal violation. Upon becoming aware of legal violations, we will remove such links immediately.
 
 ---
 
 ## Copyright
 
-All content and works on these pages created by the site operator are subject to copyright. Duplication, processing, distribution, or any form of commercialization of such material beyond the scope of copyright law shall require the prior written consent of the respective author or creator.
+The content and works created by the site operator on these pages are subject to German copyright law. The duplication, processing, distribution, and any kind of exploitation outside the limits of copyright law require the prior written consent of the respective author or creator. Downloads and copies of this site are only permitted for private, non-commercial use.
+
+Insofar as the content on this page was not created by the operator, the copyrights of third parties are respected. In particular, third-party content is marked as such. Should you nevertheless become aware of a copyright infringement, please inform us accordingly. Upon becoming aware of legal violations, we will remove such content immediately.
