@@ -7,11 +7,11 @@ header-img: "img/imprint-bg.png"
 
 # Imprint (Impressum)
 
-## Information according to § 5 TMG (Telemediengesetz)
+## Information
 
 **Phillip Bösger**  
-[Street and House Number] <!-- TODO: Replace with actual street address before deployment -->  
-[Postal Code] [City] <!-- TODO: Replace with actual postal code and city before deployment -->  
+Bachstraße 5 i  
+08412 Werdau  
 Germany
 
 **Contact:**  
@@ -19,7 +19,7 @@ Email: [photography@boesger.com](mailto:photography@boesger.com)
 
 ---
 
-## Responsible for Content according to § 18 Abs. 2 MStV
+## Responsible for Content
 
 Phillip Bösger  
 (Address as above)
@@ -38,7 +38,7 @@ We are not obliged or willing to participate in dispute resolution proceedings b
 
 ### Liability for Content
 
-As a service provider, we are responsible for our own content on these pages in accordance with § 7 Abs. 1 TMG and general laws. According to §§ 8 to 10 TMG, however, we are not obligated to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity.
+As a service provider, we are responsible for our own content on these pages in accordance with general laws. We are not obligated to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity.
 
 Obligations to remove or block the use of information under general laws remain unaffected. However, liability in this regard is only possible from the moment of knowledge of a specific infringement. Upon becoming aware of such violations, we will remove the respective content immediately.
 
