@@ -26,32 +26,20 @@ Phillip Bösger
 
 ---
 
-## Dispute Resolution
-
-The European Commission provides a platform for online dispute resolution (ODR): [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/).
-
-We are not obliged or willing to participate in dispute resolution proceedings before a consumer arbitration board.
-
----
-
 ## Disclaimer
 
 ### Liability for Content
 
-As a service provider, we are responsible for our own content on these pages in accordance with general laws. We are not obligated to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity.
-
-Obligations to remove or block the use of information under general laws remain unaffected. However, liability in this regard is only possible from the moment of knowledge of a specific infringement. Upon becoming aware of such violations, we will remove the respective content immediately.
+I am responsible for my own content on this website in accordance with applicable laws. I am not obligated to monitor third-party information or to investigate circumstances that indicate illegal activity. Upon becoming aware of any legal violations, I will remove the respective content immediately.
 
 ### Liability for Links
 
-Our website contains links to external websites of third parties, over whose content we have no influence. Therefore, we cannot assume any liability for these external contents. The respective provider or operator of the linked pages is always responsible for the contents of those pages. The linked pages were checked for possible legal violations at the time of linking. Illegal content was not discernible at the time of linking.
-
-Permanent monitoring of the content of the linked pages is not reasonable without concrete evidence of a legal violation. Upon becoming aware of legal violations, we will remove such links immediately.
+This website contains links to external websites of third parties, over whose content I have no influence. I cannot assume any liability for these external contents. The respective provider or operator of the linked pages is responsible for their contents. The linked pages were checked for possible legal violations at the time of linking. Upon becoming aware of legal violations, I will remove such links immediately.
 
 ---
 
 ## Copyright
 
-The content and works created by the site operator on these pages are subject to German copyright law. The duplication, processing, distribution, and any kind of exploitation outside the limits of copyright law require the prior written consent of the respective author or creator. Downloads and copies of this site are only permitted for private, non-commercial use.
+The content and works on this website are subject to copyright law. Duplication, processing, distribution, or any kind of use outside the limits of copyright law require the prior written consent of the author. Downloads and copies of this site are only permitted for private, non-commercial use.
 
-Insofar as the content on this page was not created by the operator, the copyrights of third parties are respected. In particular, third-party content is marked as such. Should you nevertheless become aware of a copyright infringement, please inform us accordingly. Upon becoming aware of legal violations, we will remove such content immediately.
+Where content on this page was not created by the operator, the copyrights of third parties are respected. Should you become aware of a copyright infringement, please inform me accordingly. Upon becoming aware of legal violations, I will remove such content immediately.
